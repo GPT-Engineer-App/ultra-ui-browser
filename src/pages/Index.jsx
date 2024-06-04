@@ -22,7 +22,7 @@ const Index = () => {
     setOutput("");
   };
 
-  const bgColor = useColorModeValue("gray.100", "gray.700");
+  const bgColor = useColorModeValue("gray.100", "gray.600");
   const textColor = useColorModeValue("black", "white");
 
   return (
